@@ -113,6 +113,8 @@ If the path is not valid (doesn't start with `m`, contains letters, ...) it prin
 
 Closes the program.
 
+There is also a little easter egg hidden in the code, have fun finding it.
+
 ## BIP39
 
 BIP39 turns a random number into words that are easy to write down.
